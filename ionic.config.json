@@ -1,0 +1,8 @@
+{
+  "name": "CoMeT",
+  "app_id": "299f1c44",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
