@@ -1,6 +1,6 @@
 {
-  "name": "CoMeT",
-  "app_id": "299f1c44",
+  "name": "clicker",
+  "app_id": "f0281363",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
